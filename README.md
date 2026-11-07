@@ -18,7 +18,7 @@ Console application for ordering food, written in Java 17 with Maven.
 
 
 
-\## Structure
+## Structure
 
 \- domain - Customer, Food, Cart, Order, OrderItem
 
@@ -30,7 +30,7 @@ Console application for ordering food, written in Java 17 with Maven.
 
 
 
-\## Run
+## Run
 
 mvn clean install
 
