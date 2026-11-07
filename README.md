@@ -1,4 +1,4 @@
-\# Food Delivery Service
+# Food Delivery Service
 
 
 
@@ -6,7 +6,7 @@ Console application for ordering food, written in Java 17 with Maven.
 
 
 
-\## Features
+## Features
 
 \- Customer authentication
 
