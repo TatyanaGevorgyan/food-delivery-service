@@ -7,7 +7,7 @@ The main goal of the project is clean design rather than the user interface. The
 Data is read from CSV files at startup. Foods and customers are loaded from foods.csv and customers.csv, and previously saved orders are loaded from orders.csv, so new order IDs continue from the last existing one.
 
 ## Project structure
-
+```
 food-delivery-service
 ├── pom.xml
 ├── README.md
@@ -46,3 +46,4 @@ food-delivery-service
 └── test
     ├── customers.csv
     └── foods.csv
+```
